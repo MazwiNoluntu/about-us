@@ -1,0 +1,47 @@
+body{
+    background-color: blueviolet;
+}
+h2{
+
+    margin: 0;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    text-decoration-line: underline;
+    text-decoration-color: brown;
+    background-color: lightgrey;
+}
+div{
+    text-size-adjust: 15;
+    margin: 15px;
+    color: black;
+    
+}
+h1{
+border: 3px solid red;
+border-radius: 3px;
+padding: 5px;
+text-align: center;
+}
+
+.computerliteracy{
+    margin-left: 6px;
+    border: 15px solid tomato;
+    padding: 7px;
+    margin: auto;
+    text-overflow: initial;
+    background-color: aqua;
+}
+
+.row:after {
+    content: icon;
+    display: table;
+    clear: both;
+
+}
+
+img{
+    border: 5px solid red;
+    border-radius: 20px;
+}
+  
